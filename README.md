@@ -27,7 +27,8 @@ The core aim is to illustrate the behavior of quantum walks versus classical sea
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/grover-walk-visualizer.git
+git clone https://github.com/syed0369/grover-walk.git
+cd grover-walk
 cd grover-walk-visualizer
 ```
 ### Step 2: Install dependencies
