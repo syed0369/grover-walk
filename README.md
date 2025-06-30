@@ -10,8 +10,6 @@ This project explores maze (tree) solving using both classical and quantum-inspi
 
 The core aim is to illustrate the behavior of quantum walks versus classical search algorithms on graphs.
 
----
-
 ## File descriptions
 
 | File | Description |
@@ -19,8 +17,6 @@ The core aim is to illustrate the behavior of quantum walks versus classical sea
 | `classical_grover.py` | Interactive Streamlit app for exploring Grover Walk vs DFS/BFS. |
 | `grover.py` | Static Grover walk simulation with probability visualizations using matplotlib. |
 | `quantum_simulation.py` | Cirq-based quantum evolution of Grover walk on a tree structure. |
-
----
 
 ## Run the project files
 
