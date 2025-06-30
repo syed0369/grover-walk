@@ -64,6 +64,9 @@ python quantum_simulation.py
 
 Open to collaboration and suggestions! Feel free to fork and extend the simulation for more graph types or search comparisons.
 
+## Inspiration
 
+[A mathematical framework for maze solving using quantum walks](https://link.springer.com/article/10.1007/s11128-025-04711-y)
 
+Matsuoka, L., Ohno, H. & Segawa, E. A mathematical framework for maze solving using quantum walks. Quantum Inf Process 24, 93 (2025). https://doi.org/10.1007/s11128-025-04711-y
 
